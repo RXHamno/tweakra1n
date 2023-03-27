@@ -1,0 +1,16 @@
+{
+  "name": "tweakra1n",
+  "short_name": "tweakra1n",
+  "description": "Your new favorite AppStore",
+  "lang": "en-US",
+  "display": "standalone",
+  "background_color": "#EE350F",
+  "theme_color": "#EE350F",
+  "icons": [
+    {
+      "src": "assets/favicon.ico",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}

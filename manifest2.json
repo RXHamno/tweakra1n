@@ -1,0 +1,15 @@
+{
+  "name": "tweakra1n",
+  "short_name": "tweakra1n",
+  "description": "Your new favorite AppStore",
+  "lang": "en-US",
+  "start_url": "light.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/favicon.ico",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
