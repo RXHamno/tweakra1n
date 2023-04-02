@@ -60,10 +60,7 @@
       }
       .searchbar-disable-button{
       display: block; 
-      margin-right: -52px;
-      }
-      .searchbar{
-      -webkit-filter:blur(50px);filter:blur(50px);
+      margin-right: -52px
       }
       .col-100{
       margin-top:16px;
@@ -94,14 +91,11 @@
       height:auto;
       } 
       .toolbar-bottom{
-      border-top-left-radius:25px;
-      border-top-right-radius:25px;
+      border-top-left-radius:30px;
+      border-top-right-radius:30px;
       }
-      .swiper-slide img{
-      width:90%;
-      height:180px;
-      border-radius:20px;
+      .tab-link-highlight{
+      width: 27%;
+      transform: translate3d(0%, 0px, 0px);
       }
-      .swiper-wrapper{
-      transform: translate3d(-1125px, 0px, 0px);
-      }
+      
