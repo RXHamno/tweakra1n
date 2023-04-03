@@ -11,7 +11,7 @@
           "Name": "PackageName",
           "Description": "Description",
           "Author": {
-              "Label": "Label",
+              "Label": "Outland3r2007",
               "Links": [
                   {
                       "Label": "Outland3r2007",
@@ -19,9 +19,9 @@
                   }
               ]
           },
-          "Icon": "https://tweakra1n.tk/default.png",
+          "Icon": "https://tweakrain.tk/assets/default.png",
           "Category": null,
-          "Caption": "Caption",
+          "Caption": "Just a test",
           "Screenshot": null,
           "Releases": [
               {
