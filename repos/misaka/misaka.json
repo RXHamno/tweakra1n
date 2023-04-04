@@ -32,5 +32,7 @@
                     "Description": "First release"
                 },
             ],
-            "PackageID": "com.Outlander.font1"
-        },
+            "PackageID": "com.Outlander.font"
+             }
+    ]
+}
