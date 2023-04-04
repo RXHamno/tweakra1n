@@ -1,0 +1,36 @@
+{
+    "RepositoryName": "tweakra1n",
+    "RepositoryDescription": "Official tweakra1n repo",
+    "RepositoryAuthor": "Outland3r2007",
+    "RepositoryIcon": "https://tweakrain.tk/assets/welcome.png",
+    "RepositoryWebsite": null,
+    "DefaultHeaderImage": "https://tweakrain.tk/assets/welcome.png",
+    "RepositoryContents": [
+	
+	{
+          "Name": "PackageName",
+          "Description": "Description",
+          "Author": {
+              "Label": "Outland3r2007",
+              "Links": [
+                  {
+                      "Label": "Outland3r2007",
+                      "Link": "https://twitter.com/Outland3r2007"
+                  }
+              ]
+          },
+          "Icon": "https://tweakrain.tk/assets/default.png",
+          "Category": null,
+          "Caption": "Just a test",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": null,
+                  "Description": null
+              }
+          ],
+          "PackageID": "com.Outlander.test"
+      }
+	     ]
+}
