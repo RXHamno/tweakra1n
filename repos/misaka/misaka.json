@@ -23,12 +23,40 @@
             "Category": "Font",
             "Caption": "iOS 16 LockScreen Font for iOS 15",
             "Screenshot": [
-                "https://raw.githubusercontent.com/Outland3r2007/tweakra1n/main/repos/misaka/screenshots/font1.PNG"
+                "https://raw.githubusercontent.com/Outland3r2007/tweakra1n/main/repos/misaka/screenshots/font2.PNG"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
                     "Package": "https://raw.githubusercontent.com/Outland3r2007/tweakra1n/main/repos/misaka/iOS%2016%20ClockFont%201.misaka",
+                    "Description": "First release"
+                },
+            ],
+            "PackageID": "com.Outlander.font"
+             },
+             {
+            "Name": "iOS 16 Font Clock 2",
+            "Description": "iOS 16 LS Font for iOS 15",
+            "Author": {
+                "Label": "Outland3r2007",
+                "Links": [
+                    {
+                        "Label": "Outland3r2007",
+                        "Link": "https://twitter.com/Outland3r2007"
+                    }
+                ]
+            },
+            "Icon": "https://tweakrain.tk/assets/default.png",
+            "HeaderImage": "https://tweakrain.tk/assets/default.png",
+            "Category": "Font",
+            "Caption": "iOS 16 LockScreen Font for iOS 15",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/Outland3r2007/tweakra1n/main/repos/misaka/screenshots/font1.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/Outland3r2007/tweakra1n/main/repos/misaka/iOS%2016%20Clock%20Font%202.misaka",
                     "Description": "First release"
                 },
             ],
